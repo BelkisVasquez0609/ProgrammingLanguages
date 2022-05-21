@@ -35,6 +35,15 @@
     } else {
         // Fine
     }
+    
+  - **AccessDeniedError**	This will get returned due to file permission issues.
+  - **ConfigurationError**	This will get returned if there is an invalid configuration.
+  - **ConnectionTimedOutError**	This will return when connection timed out happen when try to connect to a remote host.
+  - **EofError**	This will get returned if read operations are performed on a channel after it closed.
+  - **Error**	Represents IO module related errors.
+  - **FileNotFoundError**	This will get returned if the file is not available in the given file path.
+  - **GenericError**	Represents generic IO error.
+  - **TypeMismatchError**	This will get returned when there is an mismatch of given type and the expected type.
 # environment variables
 ## File I/O
 
