@@ -3,17 +3,17 @@
      **bal version**
    - Home \
      **bal home**
-   -Project \
+   - Project \
      **bal new 'Project name'**
-   -module\
+   - module\
      **bal add 'module name'**
-   -build\
+   - build\
      **bal build 'module name'**
    - Clean cache \
      **bal clean**
-   -Test \
+   - Test \
      **bal test 'module name'**
-   -Help \
+   - Help \
      **bal help** (It shows the commands and what we can do with them)
     
 # Standard Streams: 
