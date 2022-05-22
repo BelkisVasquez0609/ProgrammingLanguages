@@ -44,7 +44,7 @@
   - **FileNotFoundError**	This will get returned if the file is not available in the given file path.
   - **GenericError**	Represents generic IO error.
   - **TypeMismatchError**	This will get returned when there is an mismatch of given type and the expected type.
-# environment variables
+# Environment variables
 os:getEnv("HTTP_PORT"); \
 os:getUsername(); \
 os:getUserHome(); 
