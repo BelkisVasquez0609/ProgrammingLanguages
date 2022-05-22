@@ -47,7 +47,7 @@
 # environment variables
 os:getEnv("HTTP_PORT"); \
 os:getUsername(); \
-os:getUserHome(); \
+os:getUserHome(); 
 # File I/O
 https://ballerina.io/learn/by-example/io-json.html
 # Network I/O
