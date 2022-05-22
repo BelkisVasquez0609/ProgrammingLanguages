@@ -45,7 +45,10 @@
   - **GenericError**	Represents generic IO error.
   - **TypeMismatchError**	This will get returned when there is an mismatch of given type and the expected type.
 # environment variables
-## File I/O
+os:getEnv("HTTP_PORT"); \
+os:getUsername(); \
+os:getUserHome(); \
+# File I/O
 https://ballerina.io/learn/by-example/io-json.html
-## Network I/O
+# Network I/O
 https://medium.com/ballerina-techblog/ballerina-concurrency-model-and-non-blocking-i-o-14c6bed595f4
